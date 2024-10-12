@@ -1,16 +1,55 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://pbs.twimg.com/profile_banners/1762771364233060352/1728755518/1080x360" width="700"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/muheez-adeko-1818852b6/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://discord.com/channels/@mzscripter">
+      <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+    </a>
+    <a href="https://x.com/mzed_io">
+      <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
+    </a>
+</div>
+  <img src="https://komarev.com/ghpvc/?username=Mz-scripter&style=flat-square&color=red" alt=""/>
+  <h1>
+    hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
 
-<!--
-**Mz-scripter/Mz-scripter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611r2sknbg5vsgtj9s50fk07a15gs6cbp97dcnellya&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
+</div>
 
-Here are some ideas to get you started:
+### :man_technologist: About Me:
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+- :telescope: I'm a Python programmer with expertise in developing web applications, web crawlers, and a wide range of Python-based software solutions.
+- :seedling: Exploring content writing.
+- :zap: In my free time, I solve problems of LeetCode and read tech articles.
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muheez-adeko-1818852b6/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40px" height="40px"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS" width="40px" height="40px"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40px" height="40px"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40px" height="40px"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/508915/flask.svg" title="Flask" alt="Flask" width="40px" height="40px"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40px" height="40px"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/416517/code-github-hosting.svg" title="GitHub" alt="GitHub" width="40px" height="40px"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40px" height="40px"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40px" height="40px"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="40px" height="40px"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="JetBrains" width="40px" height="40px"/>&nbsp;
+</div>
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mz-scripter&date_format=M%20j%5B%2C%20Y%5D&theme=nightowl)](https://git.io/streak-stats)
+  
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mz-scripter&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mz-scripter&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
