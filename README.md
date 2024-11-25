@@ -36,6 +36,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40px" height="40px"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40px" height="40px"/>&nbsp;
   <img src="https://www.svgrepo.com/show/508915/flask.svg" title="Flask" alt="Flask" width="40px" height="40px"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40px" height="40px"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40px" height="40px"/>&nbsp;
   <img src="https://www.svgrepo.com/show/416517/code-github-hosting.svg" title="GitHub" alt="GitHub" width="40px" height="40px"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40px" height="40px"/>&nbsp;
