@@ -7,7 +7,7 @@
     <a href="https://discord.com/channels/@mzscripter">
       <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
     </a>
-    <a href="https://x.com/mzed_io">
+    <a href="https://x.com/Mz_Scripter">
       <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
     </a>
 </div>
