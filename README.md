@@ -46,7 +46,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mz-scripter&date_format=M%20j%5B%2C%20Y%5D&theme=nightowl)](https://git.io/streak-stats)
+[![GitHub Streak](http://streak-stats.demolab.com?user=Mz-scripter&date_format=M%20j%5B%2C%20Y%5D&theme=nightowl)](https://git.io/streak-stats)
   
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mz-scripter&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
