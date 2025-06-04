@@ -1,4 +1,5 @@
-![Snake animation](https://raw.githubusercontent.com/Mz-scripter/Mz-scripter/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark)
+![snake gif](https://raw.githubusercontent.com/Mz-scripter/Mz-scripter/main/dist/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![snake gif](https://raw.githubusercontent.com/Mz-scripter/Mz-scripter/main/dist/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
 
 
 <div id="header" align="center">
