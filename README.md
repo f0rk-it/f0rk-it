@@ -2,26 +2,28 @@
 <p align="center">
 
 <!-- Snake Animation -->
-<picture>
+<picture align="center" dir="auto">
   <source srcset="dist/github-snake-dark.svg" media="(prefers-color-scheme: dark)" />
   <img src="dist/github-snake.svg" alt="GitHub contribution snake animation" />
 </picture>
 
-## About Me
-- 🧠 I get random (sometimes crazy) ideas and build them just to see what happens.
-- 💻 Mostly web stuff — tools, sites, and the occasional AI-powered rabbit hole.
-- 🧪 Currently cooking up something with AI (🤐 no spoilers... yet).
-- 🔧 Tech stack: FastAPI (lean & mean), Vue (clean & reactive).
-- 🔁 Backend-first dev. Frontend gets the ✨ treatment after.
-- 🤖 If you’re not using AI to build, you're basically building with a blindfold.
-- 📈 Next goal: ship something profitable, maybe find investors, maybe take over the world.
+<div align="center" dir="auto">
+  <h2>About Me</h2>
+  <p>🧠 I get random (sometimes crazy) ideas and build them just to see what happens.</p>
+  <p>💻 Mostly web stuff — tools, sites, and the occasional AI-powered rabbit hole.</p>
+  <p>🧪 Currently cooking up something with AI (🤐 no spoilers... yet).</p>
+  <p>🔧 Tech stack: FastAPI (lean & mean), Vue (clean & reactive).</p>
+  <p>🔁 Backend-first dev. Frontend gets the ✨ treatment after.</p>
+  <p>🤖 If you’re not using AI to build, you're basically building with a blindfold.</p>
+  <p>📈 Next goal: ship something profitable, maybe find investors, maybe take over the world.</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muheez-adeko-1818852b6/) <a href="https://x.com/Mz_Scripter">
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muheez-adeko-1818852b6/) <a href="https://x.com/Mz_Scripter">
       <img src="https://img.shields.io/badge/X-black?style=flat&logo=x&logoColor=white" alt="Twitter Badge"/>
     </a>  <img src="https://komarev.com/ghpvc/?username=Mz-scripter&style=flat-square&color=red" alt=""/>
+</div>
 
-## My Skills
-<table>
+<h2 align='center' dir='auto'>My Skills</h2>
+<table align='center' dir='auto'>
   <tr width='50' height='50'>
     <td><img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg' width='50'></td>
     <td><img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' width='50'></td>
@@ -52,7 +54,8 @@
   </tr>
 </table>
 
-## My Stats
+<h2 align='center' dir='auto'>My Stats</h2>
+
 [![GitHub Streak](http://streak-stats.demolab.com?user=Mz-scripter&theme=nightowl)](https://git.io/streak-stats)
   
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mz-scripter&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
