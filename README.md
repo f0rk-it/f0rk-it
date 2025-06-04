@@ -1,3 +1,6 @@
+![Snake animation](https://raw.githubusercontent.com/Mz-scripter/Mz-scripter/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
+
 <div id="header" align="center">
   <img src="https://pbs.twimg.com/profile_banners/1762771364233060352/1728755518/1080x360" width="700"/>
   <div id="badges">
