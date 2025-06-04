@@ -31,6 +31,4 @@ jobs:
           git add dist/
           git commit -m "generate contribution snake animation" || echo "Nothing to commit"
 
-          # ✅ USE YOUR PAT, NOT THE DEFAULT TOKEN
-          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/Mz-scripter/Mz-scripter.git
-          git push origin HEAD
+          git push https://x-access-token:${GH_PAT}@github.com/Mz-scripter/Mz-scripter.git HEAD:main
