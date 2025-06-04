@@ -1,5 +1,8 @@
-![snake gif](https://raw.githubusercontent.com/Mz-scripter/Mz-scripter/main/dist/github-contribution-grid-snake.svg#gh-dark-mode-only)
-![snake gif](https://raw.githubusercontent.com/Mz-scripter/Mz-scripter/main/dist/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
+<!-- Dark mode -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mz-scripter/Mz-scripter/main/dist/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Mz-scripter/Mz-scripter/main/dist/github-contribution-grid-snake.svg" />
+</picture>
 
 
 <div id="header" align="center">
