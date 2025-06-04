@@ -1,7 +1,7 @@
 <!-- Dark mode -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mz-scripter/Mz-scripter/main/dist/github-contribution-grid-snake-dark.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Mz-scripter/Mz-scripter/main/dist/github-contribution-grid-snake.svg" />
+  <source srcset="dist/github-snake-dark.svg" media="(prefers-color-scheme: dark)" />
+  <img src="dist/github-snake.svg" alt="GitHub contribution snake animation" />
 </picture>
 
 
