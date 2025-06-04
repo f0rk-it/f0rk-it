@@ -2,31 +2,35 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # every day at midnight
+    - cron: "0 0 * * *"  # runs every day at midnight
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout the repo
+      - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate GitHub contribution grid snake animation
+      - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: Mz-scripter
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg
 
       - name: Commit and push
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          GH_PAT: ${{ secrets.GH_PAT }}  # ✅ make sure this exists!
         run: |
           git config --global user.name 'Mz-scripter'
-          git config --global user.email 'mzscripterx5@gmail.com'  # use your GitHub email
+          git config --global user.email 'mzscripterx5@gmail.com'
+
           git add dist/
           git commit -m "generate contribution snake animation" || echo "Nothing to commit"
-          git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/Mz-scripter/Mz-scripter.git
+
+          # ✅ USE YOUR PAT, NOT THE DEFAULT TOKEN
+          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/Mz-scripter/Mz-scripter.git
           git push origin HEAD
