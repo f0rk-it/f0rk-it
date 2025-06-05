@@ -57,11 +57,11 @@
 <h2 align='center' dir='auto'>My Stats</h2>
 
 <div align='center' dir='auto'>
-  <img src='http://streak-stats.demolab.com?user=Mz-scripter&theme=nightowl' align='center' dir='auto'>
+  <img src='http://streak-stats.demolab.com?user=f0rk-it&theme=nightowl' align='center' dir='auto'>
   <br><br>
-  <img src='https://github-readme-stats.vercel.app/api?username=Mz-scripter&count_private=true&show_icons=true&theme=tokyonight' align='center' dir='auto'>
+  <img src='https://github-readme-stats.vercel.app/api?username=f0rk-it&count_private=true&show_icons=true&theme=tokyonight' align='center' dir='auto'>
   <br><br>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Mz-scripter&layout=compact&theme=vision-friendly-dark' align='center' dir='auto'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=f0rk-it&layout=compact&theme=vision-friendly-dark' align='center' dir='auto'>
 </div>
 
 
